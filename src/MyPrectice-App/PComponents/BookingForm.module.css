@@ -1,0 +1,54 @@
+.BookingForm-fullPage{
+    width: 35%;
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    padding: 1rem;
+    
+
+}
+.Date-AddRoom-section{
+    display: flex;
+    background-color:#0198CD;
+    height: 3rem;
+}
+.AddRoom-btn{
+    background-color: #006599;
+    color: white;
+    margin-left: 52.5%;
+    border: none;
+
+}
+.check-in-out-date-section{
+    display: flex;
+    justify-content:space-between;
+}
+
+.GustName-input{
+    width: 80%;
+    height: 2rem;
+    border: 2px solid black;
+
+}
+
+.person-input-section{
+
+}
+
+.person-input{
+    display: flex;
+    justify-content:space-between
+}
+
+.cancle-next-btn{
+    margin-top: 1rem;
+    display: flex;
+    justify-content:space-between
+
+}
+
+.next-btn{
+    background-color: yellow;
+    color: white;
+}
